@@ -51,13 +51,6 @@
 - Cybersecurity Attack & Defense Fundamentals — Coursera
 - Developing Industrial IoT — Coursera
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keshavkalya&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavkalya&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
 ---
 
 <p align="center">💬 Open to internships, freelance work, and collaborations — reach out on <a href="https://www.linkedin.com/in/keshav-kalya">LinkedIn</a>!</p>
