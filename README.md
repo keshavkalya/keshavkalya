@@ -39,4 +39,4 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | **[Weather App](https://github.com/keshavkalya/weather-app)** | Clean, responsive weather dashboard with hourly + 7-day forecasts — **[try it live](https://keshavkalya.github.io/weather-app/)** | HTML, CSS, JavaScript |
-| **[VisionGuard](https://github.com/keshavkalya/visionguard)** | Face recognition access control with liveness detection — YuNet face detection, LBPH recognizer, and a blink check so a printed photo can't fool it, plus a Flask REST API to enroll and verify faces over HTTP | Python, OpenCV, Flask, NumPy |
+| **[VisionGuard](https://github.com/keshavkalya/visionguard)** | Face recognition access control with liveness detection — YuNet face detection, LBPH recognizer, and a blink check so a printed photo can't fool it, plus a Flask REST API to enroll and verify faces over HTTP — **[view demo](https://github.com/keshavkalya/visionguard#demo)** | Python, OpenCV, Flask, NumPy |
