@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer · CS Undergrad · Building things that live on the web</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/keshav-kalya"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/keshav-kalya-563206273"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:keshav4024@gmail.com"><img src="https://img.shields.io/badge/Email-keshav4024%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://keshavkalya.github.io/weather-app/"><img src="https://img.shields.io/badge/Live_Demo-Weather_App-2ea44f?style=for-the-badge" /></a>
 </p>
@@ -38,12 +38,6 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[QA Audit Agent](https://github.com/keshavkalya/qa-audit-agent)** | Automated website QA crawler — flags broken links, images, console errors and accessibility gaps, then AI-summarizes them into a severity-ranked report; tuned to suppress false positives — **[view demo report](https://github.com/keshavkalya/qa-audit-agent/blob/main/examples/sample-report.md)** | Python, Playwright, Gemini |
-| **VisionGuard** | AI face recognition system with liveness detection — 95%+ accuracy on real-world datasets | Python, OpenCV, TensorFlow, Flask |
 | **[Weather App](https://github.com/keshavkalya/weather-app)** | Clean, responsive weather dashboard with hourly + 7-day forecasts — **[try it live](https://keshavkalya.github.io/weather-app/)** | HTML, CSS, JavaScript |
-
-
-
----
-
-<p align="center">💬 Open to internships, freelance work, and collaborations — reach out on <a href="https://www.linkedin.com/in/keshav-kalya">LinkedIn</a>!</p>
+| **[VisionGuard](https://github.com/keshavkalya/visionguard)** | Face recognition access control with liveness detection — YuNet face detection, LBPH recognizer, and a blink check so a printed photo can't fool it, plus a Flask REST API to enroll and verify faces over HTTP — **[view demo](https://github.com/keshavkalya/visionguard/blob/main/README.md)** | Python, OpenCV, Flask, NumPy |
+| **[QA Audit Agent](https://github.com/keshavkalya/qa-audit-agent)** | Automated website QA crawler — flags broken links, images, console errors and accessibility gaps, then AI-summarizes them into a severity-ranked report; tuned to suppress false positives — **[view demo report](https://github.com/keshavkalya/qa-audit-agent/blob/main/examples/sample-report.md)** | Python, Playwright, Gemini |
