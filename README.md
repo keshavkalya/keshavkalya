@@ -39,18 +39,10 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | **[QA Audit Agent](https://github.com/keshavkalya/qa-audit-agent)** | Automated website QA crawler — flags broken links, images, console errors and accessibility gaps, then AI-summarizes them into a severity-ranked report; tuned to suppress false positives — **[view demo report](https://github.com/keshavkalya/qa-audit-agent/blob/main/examples/sample-report.md)** | Python, Playwright, Gemini |
-| **DevConnect** | Real-time developer networking app — optimized chat cut response time by 40%, CI/CD with 99.9% uptime | React Native, Firebase, Firestore |
-| **QuickBites** | Scalable food ordering platform with real-time order tracking via WebSockets and role-based access control | Node.js, React, Express, MySQL |
 | **VisionGuard** | AI face recognition system with liveness detection — 95%+ accuracy on real-world datasets | Python, OpenCV, TensorFlow, Flask |
 | **[Weather App](https://github.com/keshavkalya/weather-app)** | Clean, responsive weather dashboard with hourly + 7-day forecasts — **[try it live](https://keshavkalya.github.io/weather-app/)** | HTML, CSS, JavaScript |
 
-### 📜 Certifications
 
-- Database & SQL for Data Science — Coursera (95%)
-- Cloud Computing — Swayam NPTEL, with Distinction
-- Industry-Ready Program for AI in Python
-- Cybersecurity Attack & Defense Fundamentals — Coursera
-- Developing Industrial IoT — Coursera
 
 ---
 
