@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/keshav-kalya-563206273"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:keshav4024@gmail.com"><img src="https://img.shields.io/badge/Email-keshav4024%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://keshavkalya.github.io/weather-app/"><img src="https://img.shields.io/badge/Live_Demo-Weather_App-2ea44f?style=for-the-badge" /></a>
+  <a href="https://quickbites-ashy.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-QuickBites-2ea44f?style=for-the-badge" /></a>
 </p>
 
 ---
@@ -41,3 +41,4 @@
 | **[Weather App](https://github.com/keshavkalya/weather-app)** | Clean, responsive weather dashboard with hourly + 7-day forecasts — **[try it live](https://keshavkalya.github.io/weather-app/)** | HTML, CSS, JavaScript |
 | **[VisionGuard](https://github.com/keshavkalya/visionguard)** | Face recognition access control with liveness detection — YuNet face detection, LBPH recognizer, and a blink check so a printed photo can't fool it, plus a Flask REST API to enroll and verify faces over HTTP — **[view demo](https://github.com/keshavkalya/visionguard/blob/main/README.md)** | Python, OpenCV, Flask, NumPy |
 | **[QA Audit Agent](https://github.com/keshavkalya/qa-audit-agent)** | Automated website QA crawler — flags broken links, images, console errors and accessibility gaps, then AI-summarizes them into a severity-ranked report; tuned to suppress false positives — **[view](https://github.com/keshavkalya/qa-audit-agent/blob/main/README.md)** | Python, Playwright, Gemini |
+| **[QuickBites](https://github.com/keshavkalya/quickbites)** | Indian-food-first calorie tracker — ~1,700 foods with familiar portions (roti, katori, glass), English + Hindi names with Devanagari search, water and weight tracking. Works fully offline in the browser; optional Google sign-in syncs across devices in real time — **[try it live](https://quickbites-ashy.vercel.app)** | React, Vite, Tailwind, Supabase |
